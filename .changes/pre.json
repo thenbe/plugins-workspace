@@ -35,6 +35,7 @@
     ".changes/fs-wiret-binary-file.md",
     ".changes/fs-write-panic.md",
     ".changes/global-shortcut-app-handle.md",
+    ".changes/http-init-fetch-option-connectTimeout.md",
     ".changes/http-multipart-refactor.md",
     ".changes/http-plugin-refactor.md",
     ".changes/http-proxy-config.md",
